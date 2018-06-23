@@ -1,10 +1,12 @@
 <html>
   <head>
     <title>IIT Tips</title>
+    <style>
+      a{background-color:red;}
   </head>
   <body>
     <nav style="display:inline;">
-      <a href="#1" style:"background-color:red;">Home</a>
+      <a href="#1">Home</a>
         <a href="#2">Academics</a>
         </nav>
     Hey!!<br>
