@@ -3,8 +3,8 @@
     <title>IIT Tips</title>
   </head>
   <body>
-    <nav style="display:inline">
-      <a href="#1">Home<a>
+    <nav style="display:inline;">
+      <a href="#1" style:"background-color:red;">Home</a>
         <a href="#2">Academics</a>
         </nav>
     Hey!!<br>
